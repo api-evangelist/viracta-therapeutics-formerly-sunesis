@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Viracta Therapeutics (formerly Sunesis) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.viracta.com
+Viracta Therapeutics, Inc. is a precision oncology company formerly known as Sunesis, based in Cardiff, CA, now located in Foxboro, MA. The company focuses on developing targeted therapies for cancer patients, leveraging advanced molecular profiling and innovative drug development platforms. Although no longer operating, its legacy includes a portfolio of oncology assets and collaborations. Contact can be made via email at Viracta@vlpc.com or through its SEC filings.
+
+**Areas:** Company · Oncology · Precision Medicine · Biotechnology · Formerly Sunesis
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.viracta.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/viracta-therapeutics-formerly-sunesis/](https://apis.io/providers/viracta-therapeutics-formerly-sunesis/).
